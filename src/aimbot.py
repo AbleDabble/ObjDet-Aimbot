@@ -10,7 +10,7 @@ class AimBot:
         self.mode = 1
         self.smoothness = 2
         self.confidence = 0.4
-        self.prediction = True
+        self.prediction = False
         self.last_center = None
         win32api.mouse_event(win32con.MOUSEEVENTF_MOVE, 100, 0, 0, 0)
         print("Aimbot Active")
