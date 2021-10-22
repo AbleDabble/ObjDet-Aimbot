@@ -16,4 +16,4 @@ use python testing.py from within the src directory to run the the aimbot. A win
 
 
 ### Notes
-The model runs much better on Linux for some reason. Possibly due to faster screenshot system. 
+The model runs much better on Linux for some reason. Possibly due to faster screenshot system. For some games you may need to remove the Triggerbot from testing.py in order to prevent problems with clicking the mouse. 
